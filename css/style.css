@@ -1,0 +1,99 @@
+
+
+/* font-family: 'Codystar', cursive; */
+/* font-family: 'Italianno', cursive; */
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    margin: 0;
+    text-align: center;
+    position: relative;
+}
+.header{
+    background-color: #6886c5;
+    height: 665px;
+    /* position: relative; */
+}
+.name{
+    font-family: 'Italianno', cursive;
+    font-size: 70px;
+    margin: 0;
+    padding-top: 146px;
+}
+.right_cloud{
+    position: absolute;
+    top: -176px;
+    right: 314px;
+}
+.left_cloud{
+    position: absolute;
+    top: 111px;
+    left: 200px;
+}
+.deweloper{
+font-family: 'Codystar', cursive;
+text-transform: uppercase;
+font-weight: bold;
+font-size: 19px;
+margin: 0;
+margin-top: 50px;
+}
+.main{
+    height: 600px;
+    background-color: #FFD31D;
+}
+.hello{
+    font-family: 'Italianno', cursive;
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+    padding-top: 60px;
+    margin-bottom: 54px;
+}
+.mountain{
+    max-width: 600px;
+}
+.main_inner{
+    font-size: 24px;
+    font-weight: bold;
+}
+.skills{
+    height: 533px;
+    background-color: #000;
+}
+.skills_title{
+    font-family: 'Italianno', cursive;
+    font-size: 70px;
+    color: #fff;
+    font-weight: bold;
+    padding-top: 36px;
+    margin-bottom: 80px;
+}
+.skills_items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.skills_inner ul li{
+    color: #fff;
+    list-style: none;
+}
+.footer{
+    height: 167px;
+    background-color: #FFD31D;
+}
+.contact_me{
+    text-transform: uppercase;
+    color: #000;
+    font-size: 30px;
+    margin: 0;
+    padding: 37px 0;
+}
+.social_links a img{
+    width: 40px;
+    height: 40px;
+}
